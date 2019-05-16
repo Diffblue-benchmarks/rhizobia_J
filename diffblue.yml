@@ -155,3 +155,10 @@ phases:
       throw-runtime-exceptions: false
       # Set an upper bound on loop unwinding.
       unwind: 6
+units:
+  # Target Coverage: Unknown %
+  - target:
+    - dir: target/classes
+      file: com/immomo/rhizobia/rhizobia_J/crypto/AESUtils.class
+      sourceDir: src/main/java
+      sourceFile: com/immomo/rhizobia/rhizobia_J/crypto/AESUtils.java
