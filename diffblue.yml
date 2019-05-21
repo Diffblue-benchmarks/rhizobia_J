@@ -162,3 +162,9 @@ units:
       file: com/immomo/rhizobia/rhizobia_J/crypto/RSAUtils.class
       sourceDir: src/main/java
       sourceFile: com/immomo/rhizobia/rhizobia_J/crypto/RSAUtils.java
+  # Target Coverage: Unknown %
+  - target:
+    - dir: target/classes
+      file: com/immomo/rhizobia/rhizobia_J/crypto/AESUtils.class
+      sourceDir: src/main/java
+      sourceFile: com/immomo/rhizobia/rhizobia_J/crypto/AESUtils.java
